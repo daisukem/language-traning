@@ -16,7 +16,7 @@ class MyIterator {
     this.data = data;
 
     //--------------------------
-    // iteratorを
+    // iteratorを返す
     //--------------------------
     this[Symbol.iterator] = function*() {
       let current = 0;
