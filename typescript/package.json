@@ -1,0 +1,8 @@
+{
+  "name": "@javascript-training/typescript",
+  "version": "0.0.0",
+  "description": "",
+  "devDependencies": {
+    "@types/jquery": "^3.3.4"
+  }
+}
